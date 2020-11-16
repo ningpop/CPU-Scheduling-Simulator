@@ -9,12 +9,12 @@
 <br>
 
 ### Team
-- OS를 자바
-- Member : 20194034 강윤경, [20154015 이남준](https://github.com/ningpop)
-- Role
+- **Name** : OS를 자바
+- **Member** : 20194034 강윤경, [20154015 이남준](https://github.com/ningpop)
+- **Role**
     - 강윤경<br>
     FCFS, 선점 Priority, RR, HRN
     - 이남준<br>
     SJF, 비선점 Priority, SRT
-- Develop Language : Java
-- Develop Environment : Eclipse + Swing + WindowBuilder
+- **Develop Language** : Java
+- **Develop Environment** : Eclipse + Swing + WindowBuilder
